@@ -2,10 +2,6 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, organized by difficulty.
 
-## Table of Contents
-- [About](#about)
-- [Structure](#structure)
-
 ## About
 
 This repository is a collection of my personal solutions to LeetCode problems. It serves as a way to track my progress, improve my problem-solving skills, and share solutions with others.
